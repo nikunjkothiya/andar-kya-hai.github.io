@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Product image placeholder</title>
+  <desc id="desc">A neutral placeholder for product images awaiting verified source artwork.</desc>
+  <rect width="640" height="640" fill="#f6f3eb"/>
+  <rect x="164" y="112" width="312" height="416" rx="8" fill="#ffffff" stroke="#d8d2c3" stroke-width="8"/>
+  <rect x="204" y="172" width="232" height="64" rx="8" fill="#1f776f"/>
+  <rect x="204" y="268" width="232" height="28" rx="6" fill="#d8d2c3"/>
+  <rect x="204" y="316" width="184" height="28" rx="6" fill="#d8d2c3"/>
+  <rect x="204" y="392" width="232" height="72" rx="8" fill="#f0b85a"/>
+</svg>
