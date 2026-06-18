@@ -742,6 +742,7 @@ a { color: inherit; }
 
 /* Compare button (at bottom of card) */
 .compare-button {
+  text-decoration: none;
   width: calc(100% - 28px);
   margin: 14px;
   padding: 11px 14px;

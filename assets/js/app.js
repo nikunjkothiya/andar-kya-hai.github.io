@@ -238,9 +238,9 @@ function renderProducts() {
 
           <p class="product-summary">${escapeHtml(displayCopy(product.shortSummary))}</p>
 
-          <button class="compare-button" type="button" data-product-id="${escapeHtml(product.id)}">
+          <a class="compare-button" href="#${escapeHtml(product.id)}" data-product-id="${escapeHtml(product.id)}">
             View Comparison
-          </button>
+          </a>
         </article>
       `
     )
